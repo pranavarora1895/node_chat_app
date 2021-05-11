@@ -6,11 +6,11 @@
 > ### Installing Dependencies and Running the app 
 To run this chat app, take the following steps:
 <br>
-* Download/Open your VS Code and install Live Server Plugin.
+* Download/Open your *VS Code* and install *Live Server* Plugin.
 * Open Terminal.
 * Run ```npm install``` in the terminal.
 * To start the Node Server, run ```node nodeServer/index.js```.
-* Click on Go Live button at bottom-right corner in VS Code. The app will open on ```127.0.0.1:5500```.
+* Click on *Go Live* button at bottom-right corner in VS Code. The app will open on ```127.0.0.1:5500```.
 * Enter your name in the pop-up bar. Now open another tab in your browser and in url section, enter ```127.0.0.1:5500``` to start another session. Enter different name there.
 * Enjoy chatting with different sessions. You can open as many sessions you want. This app supports group chat.
 
