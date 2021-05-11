@@ -16,6 +16,8 @@ To run this chat app, take the following steps:
 
 ---
 
+These are the screenshots taken from the app. First I opened up the session and entered the name as Pranav. Then I opened another session and entered its name as Rohan. Note that the information that Rohan joined the chat is broadcasted. Similarly, the information will be broadcasted if someone leaves the chat.
+
 ![Screenshot (244)](https://user-images.githubusercontent.com/48170643/117768637-4209d300-b250-11eb-9b57-038c35e66525.png)
 
 ![Screenshot (245)](https://user-images.githubusercontent.com/48170643/117768629-40400f80-b250-11eb-9cec-bde89e4c73b4.png)
